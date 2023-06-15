@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Encuestas;
 
 namespace EncuestasCMD
 {
@@ -76,7 +77,7 @@ namespace EncuestasCMD
             Console.WriteLine("\nEncuesta procesada!");
 
             Console.WriteLine("Presione una tecla para volver al menú principal");
-            Console.ReadKey();            
+            Console.ReadKey();
         }
 
         static void Informe(ProcesoEncuestas proceso)

@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.33529.622
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasCMD", "EncuestasCMD\EncuestasCMD.csproj", "{C34AC50C-A46F-4559-8A80-9A693796875E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encuestas", "Encuestas\Encuestas.csproj", "{AACA34FB-B0E9-4113-90D0-B3B76735C88A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncuestasForms", "EncuestasForms\EncuestasForms.csproj", "{811BD7EC-993E-434C-8B3C-3BD5BAA37912}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C34AC50C-A46F-4559-8A80-9A693796875E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AACA34FB-B0E9-4113-90D0-B3B76735C88A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AACA34FB-B0E9-4113-90D0-B3B76735C88A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AACA34FB-B0E9-4113-90D0-B3B76735C88A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AACA34FB-B0E9-4113-90D0-B3B76735C88A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{811BD7EC-993E-434C-8B3C-3BD5BAA37912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{811BD7EC-993E-434C-8B3C-3BD5BAA37912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{811BD7EC-993E-434C-8B3C-3BD5BAA37912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{811BD7EC-993E-434C-8B3C-3BD5BAA37912}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

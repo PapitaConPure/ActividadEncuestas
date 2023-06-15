@@ -4,10 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EncuestasCMD
-{
-    class ProcesoEncuestas
-    {
+namespace Encuestas {
+    public class ProcesoEncuestas {
         Encuesta[] contactables;
         public int CantContactables { get; private set; }
 
